@@ -1,3 +1,13 @@
+# Resources
+[新概念1 https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf](https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf)
+
+[词汇 https://soysaucezhu.github.io/EnglishTutor/vocab.md](https://soysaucezhu.github.io/EnglishTutor/vocab.md)
+
+
+
+
+
+
 # Outline of Tutorials
 
 ## Sentence structure and grammar basic I
@@ -79,10 +89,4 @@ Some rules about
 
 ## 句子结构和语法基础 III
 - 从句
-
-
-# Resources
-[新概念1 https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf](https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf)
-
-[词汇 https://soysaucezhu.github.io/EnglishTutor/vocab.md](https://soysaucezhu.github.io/EnglishTutor/vocab.md)
 
