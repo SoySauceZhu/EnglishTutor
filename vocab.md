@@ -1,0 +1,35 @@
+- gym
+  - n.体育馆
+- pink
+- grape
+- library
+- worry
+- worried
+- Months
+  - January
+  - February
+  - March
+  - April
+  - May
+  - June
+  - July
+  - August
+  - September
+  - October
+  - November
+  - December
+- short
+- weather
+    - sun, sunny
+    - wind, windy
+    - rain, rainy
+- cycle
+- cycling
+- circle
+- bicycle
+- make
+- take
+- clean
+- male
+- female
+- 
