@@ -3,6 +3,8 @@
 
 [词汇 https://soysaucezhu.github.io/EnglishTutor/vocab.md](https://soysaucezhu.github.io/EnglishTutor/vocab.md)
 
+[github https://github.com/SoySauceZhu/EnglishTutor](https://github.com/SoySauceZhu/EnglishTutor)
+
 
 
 
@@ -12,11 +14,17 @@
 
 ## Sentence structure and grammar basic I
 - Simple structure and statement
+  - imperative sentence
 - There be
 - Negation
+  - tag question
 - General question
 - Wh-question
 
+
+## Vocabulary I
+- Cardinal and Ordinal
+- Nouns plural form
 
 ## Sentence structure and grammar basic II
 - Pronouns 
@@ -25,7 +33,6 @@
   - for place or position
   - for time
   - short phrases
-- Nouns plural form
 - Conjunctions
 
 
@@ -56,10 +63,16 @@ Some rules about
 
 ## 句子结构和语法基础 I
 - 简单结构和陈述
+  - 祈使句
 - 存在句型
 - 否定句
+  - 反问句
 - 一般疑问句
 - 特殊疑问句
+
+## 词汇 I
+- 基数词序数词
+- 名词变复数
 
 ## 句子结构和语法基础 II
 - 代词
