@@ -82,7 +82,7 @@ Some rules about
 
 
 # Resources
-[新概念1](https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf)
+[新概念1 https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf](https://soysaucezhu.github.io/EnglishTutor/resources/新概念1.pdf)
 
-[词汇](https://soysaucezhu.github.io/EnglishTutor/vocab.md)
+[词汇 https://soysaucezhu.github.io/EnglishTutor/vocab.md](https://soysaucezhu.github.io/EnglishTutor/vocab.md)
 
