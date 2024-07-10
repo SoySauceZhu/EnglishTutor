@@ -33,3 +33,23 @@
 - male
 - female
 - 
+## Lecture 4
+- middle 中间的
+- medium 一半的
+- primary school 小学
+- middle school 中学
+- university 大学
+- mid-autumn festival 中秋节
+- spring 春
+- summer 夏
+- autumn 秋
+- winter 冬
+- unit 单元
+- king 国王
+- queen 王后
+- prince 王子
+- princess 公主
+- guard (u不发音) 侍卫
+- soldier 士兵
+- castle 城堡
+新概念5，6背到意大利
